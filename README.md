@@ -23,3 +23,9 @@ git branch -M main
 git remote add origin https://github.com/juancavalpso/urbanprod.git
 git push -u origin main
 
+# Url
+
+https://medium.com/swlh/jwt-authentication-authorization-in-nodejs-express-mongodb-rest-apis-2019-ad14ec818122
+
+
+https://leonvalen.wordpress.com/2020/02/12/autenticacion-y-autorizacion-de-json-web-token-en-nodejs-express-y-mongodb-rest-api/
